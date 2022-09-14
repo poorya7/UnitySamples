@@ -2,7 +2,7 @@ using System.Collections;
 using UnityEngine;
 using DG.Tweening;
 
-// simple class to manager switching between different screens (uses the Screen.cs class)
+// simple class to manager switching between different UI screens (uses the Screen.cs class)
 
 namespace XStudios
 {
